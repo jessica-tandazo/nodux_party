@@ -10,7 +10,7 @@ app_icon = "octicon octicon-file-directory"
 app_color = "dark red"
 app_email = "tatianaq@nodux.ec"
 app_license = "MIT"
-fixtures = ['Customer']
+fixtures = ['Customer', 'Supplier']
 
 # doctype_js = {
 #         "Customer": "nodux_party/customer.js"
